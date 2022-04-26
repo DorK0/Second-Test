@@ -1,0 +1,18 @@
+#statisticsDiv{
+    font-size:24px;
+}
+#regionsDiv{
+    font-size: 24px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.stats{
+    display: inline-block;
+}
+.container{
+    display: grid;
+    grid-row: auto auto;
+}
+#contact-icons{
+    margin-right: 10px;
+}
